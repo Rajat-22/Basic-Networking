@@ -8,7 +8,7 @@ In this report file I have explain the concept of some basic networking.These co
 3. Mail Server
 4. DHCP Server
 5. Samba
-6.Partition and Quota
+6. Partition and Quota
 7. Firewall
 
 Simply, I created a webserver and DNS Server and hosted it in my lan practically then I created mail server for the webserver. In that mail server I apply DHCP Server and Samba.
